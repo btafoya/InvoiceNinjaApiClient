@@ -1,9 +1,9 @@
 {
-    "name": "btafoya/invoiceninja-api-client",
+    "name": "btafoya/InvoiceNinjaApiClient",
     "type": "library",
     "license": "MIT",
     "description": "Unofficial Invoice Ninja API Client for PHP",
-    "homepage": "https://github.com/btafoya/invoiceninja-api-client",
+    "homepage": "https://github.com/btafoya/InvoiceNinjaApiClient",
     "authors": [
         {
             "name": "Brian Tafoya",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=5.6.0",
         "squeaky-minds/squeaky-minds-php-helper": "^1.1.1",
         "php-curl-class/php-curl-class": "^8.0"
     },
