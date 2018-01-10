@@ -1,9 +1,9 @@
 {
-  "name": "btafoya/InvoiceNinjaApiClient",
+  "name": "btafoya/invoice-ninja-api-client",
   "type": "library",
   "license": "MIT",
   "description": "Unofficial Invoice Ninja API Client for PHP",
-  "homepage": "https://github.com/btafoya/InvoiceNinjaApiClient",
+  "homepage": "https://github.com/btafoya/invoice-ninja-api-client",
   "authors": [
       {
           "name": "Brian Tafoya",
